@@ -1,0 +1,62 @@
+body{
+    background-color: #9370DB ;
+    font-family: sans-serif;
+}
+
+fieldset{
+    display: block;
+    margin-left: 22em;
+    margin-right: 23em;
+    background: rgb(240, 240, 240);
+    margin-top: 2em;
+    height: 29em;
+    background-color:#483D8B; 
+    border: black;
+}
+
+#form{
+    align-items: center;
+}
+
+#login{
+   margin-left: 1em;
+   color: aliceblue;
+}
+
+#name, #password1{
+    color: aliceblue;
+    font-size: 18px;
+    margin-left: 2em;
+    position: center;
+}
+
+#user, #password{
+    border: none;
+    outline: none;
+    width: 34em;
+    height: 20px;
+    margin-left: 3em;
+}
+
+#loginsub, #senhasub{
+    align-items: center;
+}
+
+#loginsub{
+    background-color: 	#6A5ACD;
+    border: #4682B4;
+    width: 19em;
+    height: 2em;
+    text-align: center;
+    font-size: 16px;
+    margin-left: 8em;
+}
+
+#senhasub{
+    border: none;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 14em;
+    color: aliceblue;
+    background-color: #483D8B;
+}
